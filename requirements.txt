@@ -1,0 +1,11 @@
+requests
+pytest
+pytest-cov
+flask
+
+#specifying the installing version
+# ==  exactly equal to the specific release version e.g. pytest ==1.2.11
+# ~=  latest compatible release in the same version e.g. pytest ~=1.2.11
+# >+ latest version, greater than specified release e.g. pytest >=1.2.8
+
+#to install pip3 install -r requirements.txt will install the requirements.txt file
