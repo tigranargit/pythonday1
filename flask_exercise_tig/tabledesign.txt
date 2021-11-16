@@ -1,0 +1,10 @@
+Table for Rounds:
+
+one column called say "rounds"
+
+fields within it:
+
+rid INT PK(primary key)
+player_move VARCHAR(10)
+comp_move VARCHAR(10)
+winner VARCHAR(10)

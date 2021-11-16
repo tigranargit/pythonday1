@@ -1,0 +1,15 @@
+Tables - provide structure, template for records
+records - specific entries
+fields - pieces of data needed to describe each record
+
+Python:
+
+class  - templates 
+object - instance of class
+attributes - pieces of data which describe an object 
+
+object-relational mapper (ORM) - translates from class object view to table view 
+
+tool  - SQLAlchemy 
+
+pip3 install flask_sqlalchemy 
